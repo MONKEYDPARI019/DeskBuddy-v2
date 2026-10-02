@@ -1,0 +1,20 @@
+.pio/
+.vscode/
+*.wav
+__pycache__/
+*.pyc
+"Claude outputs/"
+Claude outputs/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.aab
+.idea/
+
+# Face simulator build output
+tools/face-sim/facesim
+tools/face-sim/*.bin
